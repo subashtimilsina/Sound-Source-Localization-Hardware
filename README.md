@@ -3,7 +3,7 @@
 Hardware design files and firmware for a **mobile robot** used in **cubical microphone-array** sound-source localization. The platform combines a **three omni-wheel holonomic base** with an **eight-channel** mic harness routed through custom **KiCad** PCBs. Signal processing (GCC-PHAT, grid search, real-time demos, etc.) lives in the companion software repository.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/subashtimilsina/Sound-Source-Localization/master/Robot.jpg" alt="Robot with cubical microphone array" width="640"/>
+  <img src="Robot.jpg" alt="Robot with cubical microphone array" width="640"/>
 </p>
 
 <p align="center">
